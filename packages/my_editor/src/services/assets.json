@@ -1,0 +1,20 @@
+{
+  "packages": [
+    {
+      "title": "fusion组件库",
+      "package": "@alifd/next",
+      "version": "1.26.4",
+      "urls": [
+        "https://g.alicdn.com/code/lib/alifd__next/1.26.4/next.min.css",
+        "https://g.alicdn.com/code/lib/alifd__next/1.26.4/next-with-locales.min.js"
+      ],
+      "library": "Next"
+    }
+  ],
+
+  "groupList": [
+    "精选组件",
+    "原子组件",
+    "低代码组件"
+  ]
+}
